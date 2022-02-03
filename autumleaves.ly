@@ -1,7 +1,7 @@
 \header {
-  title = "Walking Bass-Phrasierung"
+  title = "Autum Leaves"
   composer = ""
-  subtitle = "Seite 22"
+  subtitle = ""
 }
 noten = \relative {
 
